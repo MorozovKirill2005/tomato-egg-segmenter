@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pillow
+torch
+scikit-learn
+scikit-image
+git+https://github.com/PramaLLC/BEN2.git
